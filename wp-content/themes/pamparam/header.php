@@ -75,7 +75,7 @@
 					
                     <section id="social">
                         <a id="github" href="https://github.com/ButuzGOL"></a>
-                        <a id="flicker" href="http://www.flickr.com/photos/ButuzGOL7"></a>
+                        <a id="instagram" href="http://www.pinstagram.co/butuzgol"></a>
                         <a id="linkedin" href="http://www.linkedin.com/in/ButuzGOL"></a>
                         <a id="facebook" href="http://www.facebook.com/profile.php?id=1451332451"></a>
                         <a id="twitter" href="https://twitter.com/ButuzGOL"></a>

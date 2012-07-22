@@ -192,8 +192,8 @@ header[role=banner] {  }
         #logo a { text-indent: -9999px; background-image: url("library/images/logo.png"); display: block; height: 82px; text-indent: -9999px; width: 513px; }
         #social { position: absolute; right: 0; top: 10px; }
             #social>a { display: block; float: left; margin-left: 5px; opacity: 0.7; }
-            #github { background-image: url("library/images/github.png"); width: 43px; height: 39px; }
-            #flicker { background-image: url("library/images/flicker.png"); width: 35px; height: 17px; margin-top: 11px; }
+            #github { background-image: url("library/images/github.png"); width: 43px; height: 39px; margin-top: -3px; }
+            #instagram { background-image: url("library/images/instagram.png"); width: 32px; height: 32px; margin-top: 1px; margin-left: 3px !important; }
             #linkedin { background-image: url("library/images/linkedin.png"); width: 34px; height: 32px; margin-top: 1px; }
             #facebook { background-image: url("library/images/facebook.png"); width: 20px; height: 34px; }
             #twitter { background-image: url("library/images/twitter.png"); width: 41px; height: 30px; margin-top: 2px; }
@@ -935,7 +935,7 @@ footer[role=contentinfo] {
         #social-mini { margin: -1px 0 0 -3px; float: left; }
             #social-mini>a { display: block; float: left; margin-left: 2px; opacity: 0.7; }
             #github-mini { background-image: url("library/images/github_mini.png"); width: 28px; height: 25px; }
-            #flicker-mini { background-image: url("library/images/flicker_mini.png"); width: 24px; height: 12px; margin-top: 7px; }
+            #instagram-mini { background-image: url("library/images/instagram_mini.png"); width: 23px; height: 23px; margin-top: 0px; }
             #linkedin-mini { background-image: url("library/images/linkedin_mini.png"); width: 22px; height: 21px; margin-top: 1px; }
             #facebook-mini { background-image: url("library/images/facebook_mini.png"); width: 13px; height: 23px; }
             #twitter-mini { background-image: url("library/images/twitter_mini.png"); width: 27px; height: 20px; margin-top: 3px; }

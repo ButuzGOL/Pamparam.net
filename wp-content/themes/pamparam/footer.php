@@ -5,7 +5,7 @@
 
             <div id="inner-footer" class="wrap clearfix">
 
-                <a href="http://rubyonrails.org/" id="sun"></a>
+                <a href="http://nodejs.org/" id="sun"></a>
 
                 <?php get_sidebar('footer'); // footerbar ?>
 
@@ -14,7 +14,7 @@
                     <div id="reserved">All Rights Reserved.</div>
                     <section id="social-mini" class="clearfix">
                         <a id="github-mini" href="https://github.com/ButuzGOL"></a>
-                        <a id="flicker-mini" href="http://www.flickr.com/photos/ButuzGOL7"></a>
+                        <a id="instagram-mini" href="http://www.pinstagram.co/butuzgol"></a>
                         <a id="linkedin-mini" href="http://www.linkedin.com/in/ButuzGOL"></a>
                         <a id="facebook-mini" href="http://www.facebook.com/profile.php?id=1451332451"></a>
                         <a id="twitter-mini" href="https://twitter.com/ButuzGOL"></a>

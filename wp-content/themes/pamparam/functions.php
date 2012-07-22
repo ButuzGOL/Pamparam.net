@@ -88,7 +88,7 @@ function pamparam_social_widget() {
 
     $widgets['facebook'] =
         sprintf(
-            '<div class="facebook-like"><iframe src="%s://www.facebook.com/plugins/like.php?href=%s&amp;send=false&amp;layout=button_count&amp;width=120&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" allowTransparency="true"></iframe></div>',
+            '<div class="facebook-like"><iframe src="%s://www.facebook.com/plugins/like.php?href=%s&amp;send=false&amp;layout=button_count&amp;width=120&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21&amp;locale=en_US" scrolling="no" frameborder="0" allowTransparency="true"></iframe></div>',
             $protocol,
             rawurlencode(get_permalink())
         );
