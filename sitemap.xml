@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://www.pamparam.net/wp-content/plugins/google-sitemap-generator/sitemap.xsl"?><!-- generator="wordpress/3.2.1" -->
+<!-- generated-on="March 30, 2012 5:57 am" -->
+<!-- Debug: Total comment count: 12 -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	<url>
+		<loc>http://www.pamparam.net/</loc>
+		<lastmod>2012-03-30T05:55:43+00:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+<!-- Debug: Start Postings -->
+<!-- Debug: Priority report of postID 590: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2012/03/ruby-on-rails-books/</loc>
+		<lastmod>2012-03-30T05:55:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 557: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2012/02/ruby-webframework-sinatra/</loc>
+		<lastmod>2012-02-05T10:27:11+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 546: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2012/01/ci-cms-ionize-and-halogy/</loc>
+		<lastmod>2012-01-21T11:01:13+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 537: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2011/12/small-perl-web-frameworks-review/</loc>
+		<lastmod>2011-12-18T21:56:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 532: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2011/12/pearl-books/</loc>
+		<lastmod>2011-12-11T20:56:41+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 522: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2011/11/something-about-wordpress/</loc>
+		<lastmod>2011-11-27T08:53:19+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.pamparam.net/about/</loc>
+		<lastmod>2011-11-13T06:39:40+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: Priority report of postID 253: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2010/03/znakomimsja-s-qt/</loc>
+		<lastmod>2011-11-12T15:59:14+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 265: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2010/05/game-on-flash/</loc>
+		<lastmod>2011-11-12T13:02:18+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 316: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2010/12/knigi-po-objective-c-cocoa/</loc>
+		<lastmod>2011-11-12T12:50:05+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 177: Comments: 3 of 12 = 0.3 points -->
+	<url>
+		<loc>http://www.pamparam.net/2009/03/strojka-kursovaja-ili-velikolepnyj/</loc>
+		<lastmod>2011-11-12T12:49:20+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.3</priority>
+	</url>
+<!-- Debug: Priority report of postID 193: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2009/05/biblioteka-realizovanaja-na-zend-framework/</loc>
+		<lastmod>2011-11-12T12:48:46+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 206: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2009/09/ne-bolshaja-cmska-na-kohana/</loc>
+		<lastmod>2011-11-12T12:47:40+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 216: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2009/10/ne-bolshaja-cmska-na-cakephp/</loc>
+		<lastmod>2011-11-12T12:47:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 227: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2009/12/izuchaem-jazyk-ruby/</loc>
+		<lastmod>2011-11-12T12:46:24+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 249: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2010/02/znakomimsja-s-postgresjal/</loc>
+		<lastmod>2011-11-12T12:44:56+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 257: Comments: 2 of 12 = 0.2 points -->
+	<url>
+		<loc>http://www.pamparam.net/2010/03/kursovaja-s-qt-postgresql/</loc>
+		<lastmod>2011-11-12T12:43:37+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 278: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2010/05/podborka-knig-django/</loc>
+		<lastmod>2011-11-12T12:42:53+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 288: Comments: 2 of 12 = 0.2 points -->
+	<url>
+		<loc>http://www.pamparam.net/2010/09/yii-cmss/</loc>
+		<lastmod>2011-11-07T18:41:03+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 300: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2010/10/agile-web-application-development-with-yii1-1-and-php5/</loc>
+		<lastmod>2011-11-07T18:40:43+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 311: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2010/12/ultra-simple-mail-aggregator/</loc>
+		<lastmod>2011-11-07T18:29:48+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 305: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2010/10/inside-livestreet/</loc>
+		<lastmod>2011-11-07T07:10:26+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 293: Comments: 3 of 12 = 0.3 points -->
+	<url>
+		<loc>http://www.pamparam.net/2010/09/yii-ext-tinymceelfinder/</loc>
+		<lastmod>2011-11-07T06:40:01+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.3</priority>
+	</url>
+<!-- Debug: Priority report of postID 224: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2009/10/jobeet-practical-symfony/</loc>
+		<lastmod>2011-11-07T06:04:28+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 136: Comments: 2 of 12 = 0.2 points -->
+	<url>
+		<loc>http://www.pamparam.net/2009/09/yii-blog-new/</loc>
+		<lastmod>2011-11-06T17:28:23+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+<!-- Debug: Priority report of postID 159: Comments: 0 of 12 = 0 points -->
+	<url>
+		<loc>http://www.pamparam.net/2008/12/open-lamp-engine/</loc>
+		<lastmod>2011-11-06T16:14:31+00:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.2</priority>
+	</url>
+	<url>
+		<loc>http://www.pamparam.net/blog/</loc>
+		<lastmod>2011-11-02T06:39:46+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+	<url>
+		<loc>http://www.pamparam.net/portfolio/</loc>
+		<lastmod>2011-10-30T21:44:01+00:00</lastmod>
+		<changefreq>weekly</changefreq>
+		<priority>0.6</priority>
+	</url>
+<!-- Debug: End Postings -->
+<!-- Debug: Start Custom Pages -->
+<!-- Debug: End Custom Pages -->
+<!-- Debug: Start additional URLs -->
+<!-- Debug: End additional URLs -->
+</urlset>
