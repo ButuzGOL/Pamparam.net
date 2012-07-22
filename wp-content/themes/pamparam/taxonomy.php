@@ -56,7 +56,7 @@
                                                 'after_image'  => '',
                                                 'before'       => '<span class="tags-title">Technologies:</span> ',
                                                 'before_image' => '',
-                                                'image_size'   => 'detail',
+                                                'image_size'   => 'public',
                                                 'post_id'      => $post->ID,
                                                 'taxonomy'     => 'portfolio_technology',
                                                 ) );
