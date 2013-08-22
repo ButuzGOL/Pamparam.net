@@ -51,6 +51,14 @@ Template Name: Portfolio
                                     </section> <!-- end article section -->
 
                                     <footer>
+                                        <?php $repo_link = get_post_meta( $post->ID, '_bg_portfolio_repo_link', true);
+                                        if ($repo_link):
+                                        ?>
+                                            <p class="repo">
+                                                Code: <a href="<?php echo $repo_link; ?>" target="_blank"><?php echo $repo_link; ?></a>
+                                            </p>
+                                        <?php endif; ?>
+                                        
                                         <p class="technologies">                              
                                             <?php echo apply_filters( 'taxonomy-images-list-the-terms', '', array(
                                                 'after'        => '</span>',

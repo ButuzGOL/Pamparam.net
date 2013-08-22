@@ -263,7 +263,8 @@ $bg_portfolio_boxes = array (
 		//array( '_bg_portfolio_date_compl', 'Date of completion', 'The date when the task was completed', '', '' ),
 		array( '_bg_portfolio_link', 'Link', 'A link to the site', '', '' ),
 		array( '_bg_portfolio_employer_link', 'Employer Link', 'Employer link write (label|url|project url)', '', '' ),
-		//array( '_bg_portfolio_short_descr', 'Short description', 'A short description which you\'d like to be displayed on your portfolio page', '', '' ),
+        array( '_bg_portfolio_repo_link', 'Repo Link', '', '', '' ),
+        //array( '_bg_portfolio_short_descr', 'Short description', 'A short description which you\'d like to be displayed on your portfolio page', '', '' ),
 		)
 );
 
