@@ -13,6 +13,15 @@
                         <div class="content clearfix">
                             <?php 
                             $args = array( 'post_type' => 'portfolio');
+                            if (!current_user_can('administrator')) {
+                                $args['meta_query'] = array(
+                                    array(
+                                        'key' => '_bg_portfolio_is_private',
+                                        'value' => 'on',
+                                        'compare' => '!='
+                                    )
+                                );
+                            }
                             $loop = new WP_Query( $args );
                             if ($loop->have_posts()) :
                             ?>

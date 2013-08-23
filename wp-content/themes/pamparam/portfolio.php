@@ -15,8 +15,18 @@ Template Name: Portfolio
                             <?php
                                 $args=array(
                                   'post_type' => 'portfolio',
-                                  'posts_per_page' => '-1'
+                                  'posts_per_page' => '-1',
+                                  
                                 );
+                                if (!current_user_can('administrator')) {
+                                    $args['meta_query'] = array(
+                                        array(
+                                            'key' => '_bg_portfolio_is_private',
+                                            'value' => 'on',
+                                            'compare' => '!='
+                                        )
+                                    );
+                                }
                                 $wp_query = null;
                                 $wp_query = new WP_Query($args); 
                                 if ($wp_query->have_posts()): while ( $wp_query->have_posts() ) : $wp_query->the_post();   

@@ -264,6 +264,7 @@ $bg_portfolio_boxes = array (
 		array( '_bg_portfolio_link', 'Link', 'A link to the site', '', '' ),
 		array( '_bg_portfolio_employer_link', 'Employer Link', 'Employer link write (label|url|project url)', '', '' ),
         array( '_bg_portfolio_repo_link', 'Repo Link', '', '', '' ),
+        array( '_bg_portfolio_is_private', 'Is private ?', '', 'checkbox', '' ),
         //array( '_bg_portfolio_short_descr', 'Short description', 'A short description which you\'d like to be displayed on your portfolio page', '', '' ),
 		)
 );
@@ -305,6 +306,18 @@ function bg_portfolio_post_fields_html ( $args ) {
                 '<div class="portfolio_admin_box">'.
                 '<p><label for="%1$s"><strong>%2$s</strong></label></p>'.
                 '<p><textarea class="theEditor" id="theEditor" style="width: 90%%;color:#000;" name="%1$s">%3$s</textarea></p>'.
+                '<p><em>'. $description .'</em></p>'.
+                '</div>';
+            echo "
+            <style>
+            #theEditor_tbl {background-color: #FFFFFF; border: 1px solid #CCCCCC;}
+            </style>";
+            break;
+        case 'checkbox':
+            $label_format =
+                '<div class="portfolio_admin_box">'.
+                '<p><label for="%1$s"><strong>%2$s</strong></label></p>'.
+                '<p><input type="checkbox" name="%1$s"/>%3$s</p>'.
                 '<p><em>'. $description .'</em></p>'.
                 '</div>';
             echo "
