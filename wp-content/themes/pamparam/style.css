@@ -871,7 +871,7 @@ SIDEBARS & ASIDES
     
     /* twitter widget */
     
-    .widget_twitter { }
+    .widget_twitter { margin-top: 20px; }
     
     .widget_twitter div {
         padding:0;
@@ -932,7 +932,7 @@ footer[role=contentinfo] {
     
     #copyright { font-family: 'Hammersmith One', sans-serif; color: #dddddd; background: url("library/images/cloud.png") no-repeat 0 4px; font-size: 11px; height: 63px; 
                  padding: 4px 0 0 67px; float: right; margin-top: 21px; }
-        #by { background: url("library/images/star.png") no-repeat right 0px; height: 15px; padding-top: 4px; width: 155px; }
+        #by { background: url("library/images/star.png") no-repeat right 0px; height: 15px; padding-top: 4px; width: 159px; }
         #reserved { background: url("library/images/clock.png") no-repeat right 0px; height: 15px; padding-top: 4px; width: 117px; }
         #social-mini { margin: -1px 0 0 -3px; float: left; }
             #social-mini>a { display: block; float: left; margin-left: 2px; opacity: 0.7; }
