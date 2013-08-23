@@ -871,7 +871,9 @@ SIDEBARS & ASIDES
     
     /* twitter widget */
     
-    .widget_twitter { margin-top: 20px; }
+    .widget_twitter_original { margin-top: 20px; }
+
+    .widget_twitter {  }
     
     .widget_twitter div {
         padding:0;
