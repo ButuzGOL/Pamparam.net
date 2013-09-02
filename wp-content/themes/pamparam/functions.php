@@ -81,6 +81,7 @@ function pamparam_get_page_link_by_slug($page_slug, $pagenum = 0) {
 }
 
 function pamparam_social_widget() {
+    return;
     if (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off')
         $protocol = 'https';
     else
