@@ -52,7 +52,6 @@ Template Name: Portfolio
                                         
                                         
                                         <p class="meta"><?php _e("Posted", "pamparamtheme"); ?> <time datetime="<?php echo the_time('Y-m-j'); ?>" pubdate><?php the_time('F jS, Y'); ?></time></p>
-                                        <?php pamparam_social_widget(); ?>
                                     </header> <!-- end article header -->
 
                                     <section class="post_content clearfix">
