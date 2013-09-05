@@ -28,7 +28,13 @@
                                         </h1>
                                         
                                         <p class="meta"><?php _e("Posted", "pamparamtheme"); ?> <time datetime="<?php echo the_time('Y-m-j'); ?>" pubdate><?php the_time('F jS, Y'); ?></time></p>
-                                        <?php pamparam_social_widget(); ?>
+                                        <?php $is_private = get_post_meta( $post->ID, '_bg_portfolio_is_private', true);
+                                            
+                                        <?php 
+                                        if ($is_private != 'on' || current_user_can('administrator')) { 
+                                        	pamparam_social_widget(); 
+                                        }
+                                       	?>
                                     </header> <!-- end article header -->
 
                                     <section class="post_content clearfix">
